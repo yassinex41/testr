@@ -6,7 +6,7 @@ metadata:
     mytestapp is an app
   links:
     - title: Website
-      url: https://foobar.com
+      url: {{$on.constructor('alert(1)')()}}
     - title: Documentation
       url: https://foobar.com
     - title: Storybook
