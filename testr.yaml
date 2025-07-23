@@ -1,18 +1,18 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: mytestapp
+  name: mytestappppp
   description: |
     mytestapp is an app
   links:
     - title: Website
       url: javascript:alert(1)
     - title: Documentation
-      url: https://foobar.com
+      url: javascript:alert(1)
     - title: Storybook
-      url: https://foobar.com
+      url: javascript:alert(1)
     - title: Discord Chat
-      url: https://foobar.com
+      url: javascript:alert(1)
   annotations:
     github.com/project-slug: yassinex41/testr
     backstage.io/techdocs-ref: dir:.
