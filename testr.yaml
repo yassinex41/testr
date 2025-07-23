@@ -6,7 +6,7 @@ metadata:
     mytestapp is an appp
   links:
     - title: Website
-      url: {{constructor.constructor('alert(1)')()}}
+      url: {{{}.")));alert(1)//"}}
     - title: Documentation
       url: https://foobar.com
     - title: Storybook
