@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: mytestappppp
   description: |
-    mytestapp is an app
+    mytestapp is an appp
   links:
     - title: Website
       url: javascript:alert(1)
