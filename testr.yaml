@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: mytestappppp
+  name: mytestapp
   description: |
-    mytestapp is an appp
+    mytestapp is an app
   links:
     - title: Website
       url: https://foobar.com
