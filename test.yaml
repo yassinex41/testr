@@ -1,0 +1,23 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mytesta
+  description: |
+    mytestapp is an app
+  links:
+    - title: Website
+      url: https://portal-penetration-test.spotifyportal.com/api/backstage-insights/events/facets
+    - title: Documentation
+      url: https://foobar.com
+    - title: Storybook
+      url: https://foobar.com
+    - title: Discord Chat
+      url: https://foobar.com
+  annotations:
+    github.com/project-slug: yassinex41/testr
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://foobar.com
+spec:
+  type: library
+  owner: CNCF
+  lifecycle: production
