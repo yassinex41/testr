@@ -6,7 +6,7 @@ metadata:
     mytestapp is an app
   links:
     - title: Website
-      url: javascrip&#9;t:alert(1)
+      url: javascript:alert(1)
     - title: Documentation
       url: https://foobar.com
     - title: Storybook
